@@ -1,0 +1,11 @@
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\obj\Debug\netcoreapp3.1\Lab_4-Bonus.csprojAssemblyReference.cache
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\obj\Debug\netcoreapp3.1\Lab_4-Bonus.AssemblyInfoInputs.cache
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\obj\Debug\netcoreapp3.1\Lab_4-Bonus.AssemblyInfo.cs
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\bin\Debug\netcoreapp3.1\Lab_4-Bonus.exe
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\bin\Debug\netcoreapp3.1\Lab_4-Bonus.deps.json
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\bin\Debug\netcoreapp3.1\Lab_4-Bonus.runtimeconfig.json
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\bin\Debug\netcoreapp3.1\Lab_4-Bonus.runtimeconfig.dev.json
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\bin\Debug\netcoreapp3.1\Lab_4-Bonus.dll
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\bin\Debug\netcoreapp3.1\Lab_4-Bonus.pdb
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\obj\Debug\netcoreapp3.1\Lab_4-Bonus.dll
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\Lab_4-Bonus\obj\Debug\netcoreapp3.1\Lab_4-Bonus.pdb
